@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="620f27a6-00c3-4723-9952-8e0e545a4683" name="Changes" comment="V1 - Added patient and doctor information, with add methods">
+    <list default="true" id="620f27a6-00c3-4723-9952-8e0e545a4683" name="Changes" comment="V2 - Added patient and doctor information, with UI and interactive methods that brings the final application expectations.">
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/doctor.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/patient.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -36,23 +34,26 @@
     <option name="version" value="2" />
   </component>
   <component name="ProjectId" id="2Fcsy8rysgP8OtiasH6sTvkkauf" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
   }
-}</component>
+}]]></component>
   <component name="RunManager">
     <configuration name="welcome" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="hospital.welcome" />
@@ -105,7 +106,7 @@
       <workItem from="1665580462616" duration="1025000" />
       <workItem from="1665585745344" duration="14000" />
       <workItem from="1665585803999" duration="80000" />
-      <workItem from="1665586016222" duration="311000" />
+      <workItem from="1665586016222" duration="1288000" />
     </task>
     <task id="LOCAL-00001" summary="Starting Menu">
       <created>1664803082755</created>
@@ -128,7 +129,21 @@
       <option name="project" value="LOCAL" />
       <updated>1664814884509</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="V2 - Added patient and doctor information, with UI and interactive methods that brings the final application expectations.">
+      <created>1665586438736</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1665586438736</updated>
+    </task>
+    <task id="LOCAL-00005" summary="V2 - Added patient and doctor information, with UI and interactive methods that brings the final application expectations.">
+      <created>1665586499431</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1665586499431</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -146,8 +161,10 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Starting Menu" />
     <MESSAGE value="V1 - Added patient and doctor information, with add methods" />
-    <option name="LAST_COMMIT_MESSAGE" value="V1 - Added patient and doctor information, with add methods" />
+    <MESSAGE value="V2 - Added patient and doctor information, with UI and interactive methods that brings the final application expectations." />
+    <option name="LAST_COMMIT_MESSAGE" value="V2 - Added patient and doctor information, with UI and interactive methods that brings the final application expectations." />
   </component>
 </project>
