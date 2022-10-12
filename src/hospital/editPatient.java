@@ -8,9 +8,14 @@ import java.sql.PreparedStatement;
 import javax.swing.JOptionPane;
 
 
+/**
+ * The type Edit patient.
+ */
 public class editPatient extends javax.swing.JFrame {
 
-    /** Creates new form editPatient */
+    /**
+     * Creates new form editPatient
+     */
     public editPatient() {
         initComponents();
     }
@@ -162,6 +167,8 @@ LoginPage obj =new LoginPage();
     }//GEN-LAST:event_jButton3ActionPerformed
 
     /**
+     * Main.
+     *
      * @param args the command line arguments
      */
     public static void main(String args[]) {

@@ -2,6 +2,9 @@
 package hospital;
 
 
+/**
+ * The type Patient.
+ */
 public class PATIENT extends javax.swing.JFrame {
 
     /**
@@ -163,6 +166,8 @@ public class PATIENT extends javax.swing.JFrame {
     }//GEN-LAST:event_jButton2ActionPerformed
 
     /**
+     * Main.
+     *
      * @param args the command line arguments
      */
     public static void main(String args[]) {

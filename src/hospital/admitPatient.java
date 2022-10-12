@@ -11,11 +11,25 @@ import java.util.Date;
 import javax.swing.JOptionPane;
 
 
+/**
+ * The type Admit patient.
+ */
 public class admitPatient extends javax.swing.JFrame  implements Runnable{
-    
-    int hour,seconds,minutes;
-    
-    
+
+    /**
+     * The Hour.
+     */
+    int hour,
+    /**
+     * The Seconds.
+     */
+    seconds,
+    /**
+     * The Minutes.
+     */
+    minutes;
+
+
     /**
      * Creates new form admitPatient
      */
@@ -26,7 +40,10 @@ public class admitPatient extends javax.swing.JFrame  implements Runnable{
         t.start();
         
     }
-    
+
+    /**
+     * Show date.
+     */
     void showDate(){
     Date d= new Date();
     SimpleDateFormat sd= new SimpleDateFormat("dd-MM-yyyy");
@@ -213,6 +230,8 @@ public class admitPatient extends javax.swing.JFrame  implements Runnable{
     }//GEN-LAST:event_jButton3ActionPerformed
 
     /**
+     * Main.
+     *
      * @param args the command line arguments
      */
     public static void main(String args[]) {

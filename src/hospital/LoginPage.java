@@ -10,6 +10,9 @@ import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
 
 
+/**
+ * The type Login page.
+ */
 public class LoginPage extends javax.swing.JFrame {
 
     /**
@@ -35,7 +38,7 @@ public class LoginPage extends javax.swing.JFrame {
         setDefaultCloseOperation(javax.swing.WindowConstants.EXIT_ON_CLOSE);
 
         jLabel1.setFont(new java.awt.Font("Trebuchet MS", 1, 18)); // NOI18N
-        jLabel1.setText("NORTH CITY HOSPITAL");
+        jLabel1.setText("ICESI'S HOSPITAL");
 
         jLabel2.setText("Username:");
         jLabel2.setMaximumSize(new java.awt.Dimension(550, 512));
@@ -148,6 +151,8 @@ JOptionPane.showMessageDialog(null, "error while establish connection");
     }//GEN-LAST:event_jButton2ActionPerformed
 
     /**
+     * Main.
+     *
      * @param args the command line arguments
      */
     public static void main(String args[]) {

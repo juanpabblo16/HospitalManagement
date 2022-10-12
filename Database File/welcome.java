@@ -1,6 +1,9 @@
 
 package hospital;
 
+/**
+ * The type Welcome.
+ */
 public class welcome extends javax.swing.JFrame {
 
     /**
@@ -104,6 +107,8 @@ public class welcome extends javax.swing.JFrame {
     }//GEN-LAST:event_jButton3ActionPerformed
 
     /**
+     * Main.
+     *
      * @param args the command line arguments
      */
     public static void main(String args[]) {
