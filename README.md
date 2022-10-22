@@ -13,3 +13,6 @@ Este programa se espera sea ejecutado por el personal ubicado en la recepción d
 # Observaciones
 
 * El proyecto cuenta con la opcion de hacerle el "management" a los doctores de igual manera, solamente que por decision grupal hemos decidido dejarlo de manera opcional del desarrollador, las funciones correspondientes estan comentadas pero disponibles en el codigo fuente.
+
+
+Proceso diseño ing: https://icesiedu-my.sharepoint.com/:w:/g/personal/1006208444_u_icesi_edu_co/EaZWpN9N9WlEiMkf-MSKc6oBT6PcAyUU5MWSKPLpb83ogQ
